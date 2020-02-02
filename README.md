@@ -1,3 +1,3 @@
-# hello-world
-An example respository
-Riaz Khan-- MS- EE, MS- Statistics
+# Package `straightline`
+An example R package
+Riaz Khan-- MS- EE, MS- Statistics, SDSU
