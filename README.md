@@ -1,3 +1,4 @@
 # Package `straightline`
 An example R package
-Riaz Khan-- MS- EE, MS- Statistics, SDSU
+
+Riaz Khan-- MS EE, MS Statistics, SDSU
