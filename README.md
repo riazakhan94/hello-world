@@ -6,7 +6,7 @@ This guides walks through the basic steps of creating of an R package. It includ
 * Preparing the system for R package building
 * Package creating and package metadata
 * Writing functions
-* Package documentation using roxygen2
+* Package documentation using roxygen
 * User defined class and S3 methods
 * Adding example dataset to the package
 * Vignette using R Markdown
