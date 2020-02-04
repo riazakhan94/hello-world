@@ -1,7 +1,6 @@
 # Fundamentals of Creating R Package
-An example R package
 
-Riaz Khan-- MS EE, MS Statistics, SDSU
+Author: Riaz Khan
 
 This guides walks through the basic steps of creating of an R package. It includes:
 * Preparing the system for R package building
