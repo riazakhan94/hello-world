@@ -5,27 +5,21 @@ output:
 ---
 
 
-```{r, echo = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "README-"
-)
-```
 
-# The package `straightline`
+# Fundamentals of Creating R Package
 
-This simple package is an example package. It has a few simple functions, dependencies, vignette, test files and example data.
+Author: Riaz Khan
 
+This guides walks through the basic steps of creating of an R package. It includes:
+* Preparing the system for R package building
+* Package creating and package metadata
+* Writing functions
+* Package documentation using roxygen
+* User defined class and S3 methods
+* Adding example dataset to the package
+* Vignette using R Markdown
+* Package testing and release
 
-
-# Function `straighten`
-
-Example of function `straighten`:
-
-```{r}
-library(straightline)
-line <- straighten(2, 1, 5)
-print(class(line))
-print(line)
-```
+Pre-requisites:
+* Latest version of R and R Studio
+* Basic knowledge of R programming
