@@ -1,0 +1,52 @@
+---
+title: "An Example R Package for Straight Line in 2d Coordinate System"
+author: "Riaz Khan"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+fig_caption: yes
+vignette: >
+  %\VignetteIndexEntry{An Example R Package for Straight Line in 2d Coordinate System}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+
+# Header 1
+
+This is an example vignette. 
+
+
+## Header 2
+
+Some text
+
+### Header 3
+
+Some text
+
+# Italic and bold
+
+*Italic*
+
+**Bold**
+
+***Bold Italic***
+
+# Mathematical equation
+
+* LaTeX style
+
+Inline equation: $ax+by+c=0$
+
+Equation in separate line: $$ax+by+c=0$$
+
+
+See R Markdown guide [here](https://rmarkdown.rstudio.com/articles_intro.html)
+

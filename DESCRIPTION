@@ -1,0 +1,23 @@
+Package: straightline
+Type: Package
+Title: An Example R Package for Straight Line in 2d Coordinate System
+Version: 1.1.1
+Depends: R (>= 3.5.0)
+Authors@R: c(person("Jon", "Smith", 
+            email = "js@sdsu.net", 
+            role = c("aut", "cre")),
+            person("Second", "Author",
+            email = "se@sdsu.net", 
+            role = "aut" ))
+Description: This package will do basic calculations of a straight 
+    line in 2D coordinate system. This package will do basic 
+    calculations of a straight line in 2D coordinate system. This 
+    package will do basic calculations of a straight line in 2D 
+    coordinate system. 
+Imports: ggplot2
+Suggests: MASS, knitr, rmarkdown, testthat
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+VignetteBuilder: knitr
